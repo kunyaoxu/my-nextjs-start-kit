@@ -1,3 +1,4 @@
+import '../css/styles.scss';
 import React from 'react';
 import App, { Container, AppComponentContext } from 'next/app';
 
